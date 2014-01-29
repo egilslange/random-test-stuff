@@ -6,6 +6,7 @@
 <link rel="stylesheet" media="screen, print, handheld" type="text/css" href="http://testserver.com/css/calculator.css" />
 </head>
 <body>
+<h2>edit1</h2>
 <span id="date_time"></span>
 <script type="text/javascript">window.onload = date_time('date_time');</script>
 <p>
